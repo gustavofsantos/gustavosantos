@@ -1,0 +1,19 @@
+{
+  "name": "gustavosantos",
+  "version": "1.0.0",
+  "description": "Gustavo Santos",
+  "main": "index.js",
+  "author": {
+    "name": "Gustavo Santos",
+    "email": "gustavofsantos@outlook.com",
+    "website": "gustavosantos.dev"
+  },
+  "bin": {
+    "gustavosantos": "./index.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
